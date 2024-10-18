@@ -11,6 +11,7 @@ Nombre del Empleado: " "
 Hora de Trabajo Mensual: ##
 Tarifa por Hora : Lps. ##.##
 Salario del Empleado Semanal: Lps. ##.##
+EJERCICIO 1
 */
     public static void main(String[] args) {
     Scanner entrada = new Scanner(System.in);
